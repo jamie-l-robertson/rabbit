@@ -1,3 +1,10 @@
+/**
+ * Adds two numbers together.
+ *
+ * @param a - The first number to be added
+ * @param b - The second number to be added
+ * @returns The sum of the two input numbers
+ */
 export function adddNumbers(a: number, b: number) {
   return a + b;
 }
