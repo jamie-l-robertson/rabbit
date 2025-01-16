@@ -5,7 +5,7 @@
  * @param b - The second number to be added
  * @returns The sum of the two input numbers
  */
-function adddNumbers(a, b) {
+export function adddNumbers(a: number, b: number) {
   return a + b;
 }
 
