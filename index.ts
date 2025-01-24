@@ -1,10 +1,6 @@
-/**
- * Adds two numbers together.
- *
- * @param a - The first number to be added
- * @param b - The second number to be added
- * @returns The sum of the two input numbers
- */
+KEEP_EXISTING
+
+The existing docstring is clear, concise, and follows TypeScript/TSDocs conventions. It provides a brief description of the function's purpose, documents both parameters with their roles, and specifies the return value. No improvements are necessary.
 export function adddNumbers(a: number, b: number) {
   return a + b;
 }
