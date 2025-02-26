@@ -18,5 +18,8 @@
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node"
+  },
+  "dependencies": {
+    "next": "^13.5.8"
   }
 }
